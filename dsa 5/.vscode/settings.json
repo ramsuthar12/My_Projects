@@ -1,0 +1,18 @@
+{
+    "files.associations": {
+        "vector": "cpp",
+        "xstring": "cpp",
+        "iosfwd": "cpp",
+        "iostream": "cpp",
+        "bitset": "cpp",
+        "deque": "cpp",
+        "initializer_list": "cpp",
+        "queue": "cpp",
+        "type_traits": "cpp",
+        "xutility": "cpp",
+        "ostream": "cpp",
+        "istream": "cpp",
+        "memory": "cpp",
+        "xlocnum": "cpp"
+    }
+}
